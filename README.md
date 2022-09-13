@@ -1,6 +1,7 @@
 # hola-mundo
 
-Mi primer repositorio en Github
+Mi primer repositorio en Github 
 
-I love football 💪
-I love develop 💟
+I love football 💪 :soccer:
+I love develop :heart: :computer:
+I like drink coffee :coffee:
